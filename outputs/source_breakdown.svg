@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="336" viewBox="0 0 920 336">
+<rect width="100%" height="100%" fill="#f8fafc"/>
+<text x="32" y="38" font-family="Arial" font-size="24" font-weight="700" fill="#111827">Interview Rate by Source</text>
+<text x="32" y="90" font-family="Arial" font-size="14" fill="#374151">Referral</text>
+<rect x="190" y="68" width="600" height="24" rx="4" fill="#2563eb"/>
+<text x="800" y="86" font-family="Arial" font-size="14" fill="#111827">100.0%</text>
+<text x="32" y="128" font-family="Arial" font-size="14" fill="#374151">LinkedIn</text>
+<rect x="190" y="106" width="240" height="24" rx="4" fill="#2563eb"/>
+<text x="440" y="124" font-family="Arial" font-size="14" fill="#111827">40.0%</text>
+<text x="32" y="166" font-family="Arial" font-size="14" fill="#374151">Recruiter</text>
+<rect x="190" y="144" width="199" height="24" rx="4" fill="#2563eb"/>
+<text x="399" y="162" font-family="Arial" font-size="14" fill="#111827">33.3%</text>
+<text x="32" y="204" font-family="Arial" font-size="14" fill="#374151">Company Website</text>
+<rect x="190" y="182" width="120" height="24" rx="4" fill="#2563eb"/>
+<text x="320" y="200" font-family="Arial" font-size="14" fill="#111827">20.0%</text>
+<text x="32" y="242" font-family="Arial" font-size="14" fill="#374151">Seek</text>
+<rect x="190" y="220" width="0" height="24" rx="4" fill="#2563eb"/>
+<text x="200" y="238" font-family="Arial" font-size="14" fill="#111827">0.0%</text>
+<text x="32" y="280" font-family="Arial" font-size="14" fill="#374151">University Board</text>
+<rect x="190" y="258" width="0" height="24" rx="4" fill="#2563eb"/>
+<text x="200" y="276" font-family="Arial" font-size="14" fill="#111827">0.0%</text>
+</svg>
