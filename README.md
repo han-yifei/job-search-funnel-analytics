@@ -1,13 +1,13 @@
 # Job Search Funnel Analytics
 
-A reproducible data analysis project that turns job application tracking data into funnel metrics, source performance, and weekly activity trends.
+A Python and SQL analytics project that converts job application records into funnel metrics, source performance, response timing, and weekly activity trends.
 
-This project is designed as a portfolio-ready example for data analyst roles. It shows how to define business questions, clean structured data, calculate KPIs, and communicate insights with charts and a written report.
+The project follows a practical analyst workflow: define business questions, prepare structured data, calculate KPIs, generate charts, and summarise findings in a written report.
 
 ## Business Questions
 
 - Which application sources create the strongest interview opportunities?
-- How healthy is the job search funnel from application to interview to offer?
+- How healthy is the funnel from application to interview to offer?
 - How consistent is weekly application activity?
 - How long does it take to receive a first response?
 
@@ -36,17 +36,19 @@ This project uses only the Python standard library.
 python3 src/analyze_job_search.py
 ```
 
-The script reads `data/job_applications_sample.csv` and writes the analysis to `outputs/`.
+The script reads the dataset from `data/` and writes the report and charts to `outputs/`.
 
-## Key Skills Demonstrated
+## Output
+
+- Executive report: `outputs/report.md`
+- Funnel chart: `outputs/stage_funnel.svg`
+- Source performance chart: `outputs/source_breakdown.svg`
+- Weekly activity chart: `outputs/applications_by_week.svg`
+
+## Skills Demonstrated
 
 - Data cleaning and validation with Python
-- KPI design for funnel analysis
-- Date parsing and time-to-response analysis
-- Grouped aggregation by channel, stage, and week
-- Reproducible reporting
-- SQL translation of analysis logic
-
-## Notes
-
-The included CSV is sample data for demonstration. For real use, replace it with your own application tracking data using the same column names.
+- Funnel KPI and source performance analysis
+- Response-time and weekly trend analysis
+- Reproducible reporting with generated outputs
+- SQL queries that match the Python analysis logic
