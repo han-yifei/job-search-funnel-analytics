@@ -11,7 +11,7 @@
 
 ## Main Insight
 
-The strongest source in this sample is **Referral**, based on interview opportunity rate. Referral-driven applications perform especially well because they reduce cold-start screening risk and tend to produce faster recruiter engagement.
+**Referral** is the strongest source by interview opportunity rate. It produced the highest conversion from application to interview-stage outcomes and the only offer recorded in the period.
 
 ## Funnel Counts
 
