@@ -178,11 +178,15 @@ def save_bar_chart(title, labels, values, output_file, suffix=""):
         )
 
     svg_lines.append("</svg>")
-    output_file.write_text("\n".join(svg_lines), encoding="utf-8")
+    output_file.write_text("\n".join(svg_lines) + "\n", encoding="utf-8")
 
 
 def save_report(summary):
-    best_source = summary["sources"][0]["source"]
+    best_source = summary["sources"][0]
+    offer_context = ""
+
+    if summary["offers"] == 1 and best_source["offers"] == 1:
+        offer_context = " and the only offer recorded in the period"
 
     report = f"""# Job Search Funnel Report
 
@@ -197,7 +201,7 @@ def save_report(summary):
 
 ## Main Insight
 
-The strongest source in this sample is **{best_source}**, based on interview opportunity rate. Referral-driven applications perform especially well because they reduce cold-start screening risk and tend to produce faster recruiter engagement.
+**{best_source["source"]}** is the strongest source by interview opportunity rate. It produced the highest conversion from application to interview-stage outcomes{offer_context}.
 
 ## Funnel Counts
 
