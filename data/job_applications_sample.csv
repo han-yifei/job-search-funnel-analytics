@@ -1,27 +1,27 @@
 application_date,company,role,location,source,stage_reached,current_status,seniority,salary_min,salary_max,response_date,interview_date,notes
 2026-05-05,Northstar Retail,Data Analyst,Sydney,LinkedIn,Interview,Rejected,Junior,75000,90000,2026-05-10,2026-05-16,Interviewed with hiring manager
-2026-05-06,BrightBank,Graduate Data Analyst,Sydney,Company Website,Applied,Rejected,Graduate,70000,82000,2026-05-22,,Automated rejection
+2026-05-06,BrightBank,Graduate Data Analyst,Sydney,Company Website,Applied,Rejected,Graduate,70000,82000,2026-05-22,,Application status recorded
 2026-05-08,Harbour Health,Reporting Analyst,Remote,Seek,Screen,Rejected,Junior,78000,92000,2026-05-14,,Phone screen only
-2026-05-12,Metro Energy,Data Analyst,Melbourne,LinkedIn,Applied,No Response,Junior,80000,95000,,,No response yet
+2026-05-12,Metro Energy,Data Analyst,Melbourne,LinkedIn,Applied,No Response,Junior,80000,95000,,,Application submitted
 2026-05-15,Atlas Logistics,Operations Analyst,Sydney,Referral,Offer,Offer,Junior,85000,100000,2026-05-17,2026-05-23,Offer received
 2026-05-19,CivicTech Lab,Junior BI Analyst,Remote,Company Website,Interview,Active,Graduate,72000,88000,2026-05-25,2026-06-02,Second round pending
-2026-05-21,BluePeak Insurance,Data Analyst,Sydney,Recruiter,Screen,Rejected,Junior,82000,96000,2026-05-24,,Role required more SQL experience
+2026-05-21,BluePeak Insurance,Data Analyst,Sydney,Recruiter,Screen,Rejected,Junior,82000,96000,2026-05-24,,Role fit reviewed
 2026-05-23,Koala Commerce,Product Data Analyst,Sydney,LinkedIn,Take-home,Rejected,Junior,85000,105000,2026-05-28,2026-06-04,Take-home completed
-2026-05-27,Southern Cloud,Customer Insights Analyst,Remote,LinkedIn,Applied,No Response,Junior,78000,93000,,,No response yet
+2026-05-27,Southern Cloud,Customer Insights Analyst,Remote,LinkedIn,Applied,No Response,Junior,78000,93000,,,Application submitted
 2026-05-30,Urban Mobility,Data Analyst,Sydney,Referral,Interview,Active,Junior,80000,98000,2026-06-02,2026-06-09,Panel interview scheduled
-2026-06-02,GreenGrid,Energy Data Analyst,Brisbane,Seek,Applied,Rejected,Junior,76000,90000,2026-06-12,,Automated rejection
+2026-06-02,GreenGrid,Energy Data Analyst,Brisbane,Seek,Applied,Rejected,Junior,76000,90000,2026-06-12,,Application status recorded
 2026-06-04,FinEdge,BI Analyst,Sydney,Recruiter,Interview,Rejected,Junior,85000,102000,2026-06-06,2026-06-14,Interviewed with analytics lead
 2026-06-06,LearnLoop,Education Data Analyst,Remote,Company Website,Screen,Active,Graduate,70000,85000,2026-06-11,,Waiting after phone screen
-2026-06-09,MarketMinds,Marketing Analyst,Sydney,LinkedIn,Applied,No Response,Junior,76000,92000,,,No response yet
-2026-06-11,HomeBase,Data Analyst,Sydney,Referral,Interview,Rejected,Junior,82000,100000,2026-06-13,2026-06-18,Rejected after technical interview
+2026-06-09,MarketMinds,Marketing Analyst,Sydney,LinkedIn,Applied,No Response,Junior,76000,92000,,,Application submitted
+2026-06-11,HomeBase,Data Analyst,Sydney,Referral,Interview,Rejected,Junior,82000,100000,2026-06-13,2026-06-18,Technical interview completed
 2026-06-14,Streamline SaaS,Revenue Analyst,Remote,LinkedIn,Take-home,Active,Junior,85000,105000,2026-06-18,2026-06-25,Take-home under review
 2026-06-17,PublicWorks NSW,Reporting Analyst,Sydney,Company Website,Applied,Active,Graduate,72000,86000,2026-06-28,,Asked for additional documents
 2026-06-20,Nova Travel,Commercial Analyst,Sydney,Seek,Screen,Rejected,Junior,78000,94000,2026-06-24,,Phone screen
 2026-06-23,MedMap,Healthcare Data Analyst,Remote,LinkedIn,Interview,Active,Junior,82000,98000,2026-06-26,2026-07-03,Interview completed
-2026-06-25,PayPilot,Data Analyst,Sydney,Recruiter,Applied,No Response,Junior,85000,100000,,,No response yet
-2026-06-27,FoodFlow,Supply Chain Analyst,Melbourne,LinkedIn,Applied,Rejected,Junior,76000,90000,2026-07-05,,Rejected after resume review
+2026-06-25,PayPilot,Data Analyst,Sydney,Recruiter,Applied,No Response,Junior,85000,100000,,,Application submitted
+2026-06-27,FoodFlow,Supply Chain Analyst,Melbourne,LinkedIn,Applied,Rejected,Junior,76000,90000,2026-07-05,,Resume screening completed
 2026-06-30,OpenGov Analytics,Junior Data Analyst,Remote,Company Website,Screen,Active,Graduate,70000,85000,2026-07-04,,Phone screen scheduled
 2026-07-02,FinSight,Product Analyst,Sydney,Referral,Interview,Active,Junior,88000,108000,2026-07-05,2026-07-10,Technical interview scheduled
-2026-07-04,RetailIQ,Data Analyst,Sydney,LinkedIn,Applied,No Response,Junior,76000,94000,,,No response yet
+2026-07-04,RetailIQ,Data Analyst,Sydney,LinkedIn,Applied,No Response,Junior,76000,94000,,,Application submitted
 2026-07-06,CampusConnect,Graduate Insights Analyst,Remote,University Board,Screen,Active,Graduate,68000,80000,2026-07-09,,Recruiter screen scheduled
 2026-07-08,DataNest,Analytics Consultant,Sydney,LinkedIn,Applied,Active,Junior,85000,105000,2026-07-11,,Initial response received
